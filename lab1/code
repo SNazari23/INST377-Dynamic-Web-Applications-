@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <body style="background-color:powdergrey;"></body>
+    <title>Lab 1 - Nazari Summer</title>
+</head>
+<body>
+    <h1>Sup, my name is Summer Nazari</h1>
+    <img src="image_of_me.png" height="300" alt="A picture of Summer Nazari">
+
+    <h2>Background</h2>
+    <ul>
+        <li>From: Silver Spring, Maryland 🦀</li>
+        <li>Heritage: Afghanistan 🇦🇫</li>
+        <li>Hobbies:
+            <ol>
+                <li >Coding 👩🏻‍💻</li>
+                <li>Running or Hiking 🥾</li>
+                <li>Traveling 🧳</li>
+            </l>
+        </li>
+    </ul>
+
+    <h2>Technology Background</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>IDE</th>
+                <th>Language</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    Eclipse<br>
+                    Visual Studio<br>
+                    Xcode<br>
+                    PuTTY/Unix<br>
+                    RStudio
+                </td>
+                <td>
+                    Python<br>
+                    Java<br>
+                    C++<br>
+                    R<br>
+                    Linux
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>A Quote I Live By:</h3>
+    <blockquote>
+        "Some people dream of success, while others wake up and work hard at it." – Mark Zuckerberg
+    </blockquote>
+    <h4> 
+        My Github: 
+    </h4>
+    <a href="https://github.com/SNazari23" target="_blank">Visit my Github!</a>
+</body>
+</html>
